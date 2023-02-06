@@ -5,7 +5,7 @@
  - 📫 Como chegar em mim: 
     - ✉danielcardosomds@gmail.com  -  <a href="https://wa.me/55027999558021" >📱(27)9995-58021</a>
    
-  <div  align="center"  style="display: inline_block">
+  <div  align="left"  style="display: inline_block">
 <a  href="https://github.com/DanielCardosoMDS">
 <img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=DanielCardosoMDS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCardosoMDS&layout=compact&langs_count=7&theme=tokyonight"/>
