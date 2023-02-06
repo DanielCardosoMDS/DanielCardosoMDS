@@ -5,14 +5,18 @@
  - 📫 Como chegar em mim: 
     - ✉danielcardosomds@gmail.com  -  <a href="https://wa.me/55027999558021" >📱(27)9995-58021</a>
    
-  <div align="left">
-  <a href="https://github.com/DanielCardosoMDS">
-  <img height="180em" width="400em" src="https://vercel-repo-umber.vercel.app/api?username=DanielCardosoMDS&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/> <img height="180em" width="400em" src="https://vercel-repo-umber.vercel.app/api/top-langs/?username=DanielCardosoMDS&layout=compact&langs_count=7&theme=transparent&exclude_repo=namd_analysis,vercel_repo"/>
-</div> 
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <div  align="center"  style="display: inline_block">
+<a  href="https://github.com/DanielCardosoMDS">
+<img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=DanielCardosoMDS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCardosoMDS&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+  
+ <div style="display: inline_block"><br>
+  <img align="center" alt="Daniel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Daniel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   
   ##
+  
   <div>
   <a href="https://www.linkedin.com/in/daniel-cardoso-422221229/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
